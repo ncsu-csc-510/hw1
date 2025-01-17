@@ -1,6 +1,6 @@
 # hw1
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![License](https://img.shields.io/badge/license-MIT-blue)
-![Platform](https://img.shields.io/badge/platform-Linux-green)
+<img alt="Language: Python" src="https://img.shields.io/badge/Language-Python-yellow"> <!-- Language-Python -->
+<a href="https://github.com/ncsu-csc-510/hw1/blob/main/LICENSE"><img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-purple"></a> <!-- License-MIT -->
+<img alt="Platform: Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <!-- Platform-Linux -->
 
 HW1: A Beautiful Repo
